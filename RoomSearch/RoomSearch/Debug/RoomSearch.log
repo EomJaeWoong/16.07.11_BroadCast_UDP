@@ -1,0 +1,14 @@
+﻿빌드 시작: 2016-07-11 오후 4:55:18
+     1>2 노드의 "C:\Users\USER\Documents\Visual Studio 2013\Projects\BroadCast\RoomSearch\RoomSearch\RoomSearch.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RoomSearch.cpp
+         RoomSearch.cpp
+     1>c:\users\user\documents\visual studio 2013\projects\broadcast\roomsearch\roomsearch\roomsearch.cpp(40): warning C4309: '초기화 중' : 상수 값이 잘립니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USER\Documents\Visual Studio 2013\Projects\BroadCast\RoomSearch\Debug\RoomSearch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib ws2_32.lib Ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\USER\Documents\Visual Studio 2013\Projects\BroadCast\RoomSearch\Debug\RoomSearch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\USER\Documents\Visual Studio 2013\Projects\BroadCast\RoomSearch\Debug\RoomSearch.lib" /MACHINE:X86 Debug\RoomSearch.obj
+         RoomSearch.vcxproj -> C:\Users\USER\Documents\Visual Studio 2013\Projects\BroadCast\RoomSearch\Debug\RoomSearch.exe
+     1>"C:\Users\USER\Documents\Visual Studio 2013\Projects\BroadCast\RoomSearch\RoomSearch\RoomSearch.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.22
